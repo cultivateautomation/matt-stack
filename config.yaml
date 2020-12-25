@@ -1,8 +1,8 @@
-baseurl: https://mattlincoln.net
+baseurl: https://www.mattlincoln.net
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Pardot Blog | mattlincoln.net
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -20,7 +20,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: assets/icons/favicon.ico
 
     footer:
         since: 2020
