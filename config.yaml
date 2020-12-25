@@ -1,5 +1,5 @@
 baseurl: https://www.mattlincoln.net
-languageCode: en-us
+languageCode: en
 theme: hugo-theme-stack
 paginate: 5
 title: Pardot Blog | mattlincoln.net
