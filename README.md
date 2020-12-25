@@ -1,2 +1,1 @@
-# matt-stack
- 
+Example site modified from https://github.com/gohugoio/hugoBasicExample
