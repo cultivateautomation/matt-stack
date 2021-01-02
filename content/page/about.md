@@ -1,27 +1,30 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+description = "My bio"
+date = "2020-12-27"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Matt Lincoln"
 license = "CC BY-NC-ND"
-lastmod = "2020-10-09"
+lastmod = "2020-12-28"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I got my start in the industry 10 years ago as a lead generation focused B2B marketer, whilst working towards becoming a Chartered Marketer. During this time I became a specialist in CRM, email marketing, forms and landing pages. It wasn't until 2014 that I got my first taste of a single, fully integrated Marketing Automation system as a Pardot end user.
 
-Hugo makes use of a variety of open source projects including:
+I enjoyed working with Pardot so much that I decided to join a Pardot Consulting Partner to gain experience in helping as many businesses in as many industries as possible.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+In the past few years, I've travelled far and wide to work with over 50 clients and trained delegates from over 30 countries in best practice in Pardot and Marketing Automation.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Pardot is a significant investment for your organisation, but for in-house marketers, it's incredibly difficult to make the most out of the platform when it's only a small part of your day-to-day role.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Here are some of the challenges I help clients with on a day-to-day basis:
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+* Pardot Training
+* Form and Landing Page Design & Setup
+* Email Design and Campaign Execution
+* Outsourced Pardot Administration
+* Email Preference Centers & GDPR Compliance
+* Salesforce integration and troubleshooting
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Working with an expert freelance Pardot Consultant can help your organisation get the most out of marketing automation and significantly improve the return on your marketing investment.
+
+No matter how big or small your project or challenge is, get in touch using the chatbot at the bottom of the page, and we can have a chat about how I can help.
