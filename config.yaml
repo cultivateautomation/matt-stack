@@ -2,7 +2,7 @@ baseurl: https://www.mattlincoln.net
 languageCode: en
 theme: hugo-theme-stack
 paginate: 5
-title: Matt Lincoln - Salesforce, Pardot & Marketing Technology Blog
+title: Matt Lincoln - Salesforce, Pardot & Martech Blog
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -32,7 +32,7 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: Breaking stuff in Pardot and then writing about it.
+        subtitle: Breaking stuff in Pardot & writing about it.
         avatar:
             local: true
             src: img/matt-lincoln.jpg
@@ -75,13 +75,13 @@ params:
 
     defaultImage:
         opengraph:
-            enabled: false
+            enabled: true
             local: false
             src:
 
     colorScheme:
         # Display toggle
-        toggle: false
+        toggle: true
         
         # Available values: auto, light, dark
         default: auto
