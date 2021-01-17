@@ -2,7 +2,7 @@ baseurl: https://www.mattlincoln.net
 languageCode: en
 theme: hugo-theme-stack
 paginate: 5
-title: Matt Lincoln - Salesforce, Pardot & Martech Blog
+title: Matt Lincoln - Salesforce, Pardot and Martech.
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
