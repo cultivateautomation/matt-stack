@@ -2,9 +2,7 @@
 title = "About"
 description = "My bio"
 date = "2020-12-27"
-aliases = ["about-us", "about-hugo", "contact"]
 author = "Matt Lincoln"
-license = "CC BY-NC-ND"
 lastmod = "2020-12-28"
 +++
 

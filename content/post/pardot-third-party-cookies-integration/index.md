@@ -4,7 +4,26 @@ title: Integrating Pardot with Cookie Consent Platforms
 date: 2021-01-02
 description: Pardot and third party cookie solutions overview
 image: pardot-cookies.jpg
+draft: true
+categories:
+- pardot
+- cookies
+- test
 ---
+
+If you're reading this article, there's a chance you've been asked to integrate Pardot with a third-party cookie solution such as OneTrust, Cookiebot, Cookiehub, iubenda or Cookiefirst. Perhaps this is a proactive push to become compliant with GDPR or other privacy regulations, or you've been given a notice from a regulator that your cookie management isn't up to scratch. 
+
+Either way, what you've likely found so far is that the Pardot documentation is barebones at best.
+
+## Pardot Cookie Basics
+
+- Pardot drops Cookies on a visitor's browser if they visit a page which includes either the Pardot tracking code OR a Pardot iFrame.
+- [Multiple types of Cookies are used](https://help.salesforce.com/articleView?id=pardot_basics_cookies.htm&type=5), and they have different purposes
+- These Cookies are enabled by default, however Pardot does include some out of the box functionality to prevent them from being set.
+
+## Pardot's out of the box Visitor Tracking Opt-in Banner
+
+Pardot wasn't massively quick to help clients get ready for GDPR compliance. Fairly late in the run-up to the GDPR deadline, a Pardot banner 
 
 Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
 <!--more-->
