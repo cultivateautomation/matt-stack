@@ -1,11 +1,3 @@
-+++
-title = "About"
-description = "My bio"
-date = "2020-12-27"
-author = "Matt Lincoln"
-lastmod = "2020-12-28"
-+++
-
 I got my start in the industry 10 years ago as a lead generation focused B2B marketer, whilst working towards becoming a Chartered Marketer. During this time I became a specialist in CRM, email marketing, forms and landing pages. It wasn't until 2014 that I got my first taste of a single, fully integrated Marketing Automation system as a Pardot end user.
 
 I enjoyed working with Pardot so much that I decided to join a Pardot Consulting Partner to gain experience in helping as many businesses in as many industries as possible.
@@ -22,7 +14,3 @@ Here are some of the challenges I help clients with on a day-to-day basis:
 * Outsourced Pardot Administration
 * Email Preference Centers & GDPR Compliance
 * Salesforce integration and troubleshooting
-
-Working with an expert freelance Pardot Consultant can help your organisation get the most out of marketing automation and significantly improve the return on your marketing investment.
-
-No matter how big or small your project or challenge is, get in touch using the chatbot at the bottom of the page, and we can have a chat about how I can help.

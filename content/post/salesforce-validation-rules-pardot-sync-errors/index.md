@@ -65,4 +65,6 @@ If you do want to use data scraping tools to populate missing field values, it w
 
 ![](salesforce-list-view-data-encrichment.png)
 
-It's likely that both 'backfilling' approaches outlined above can only take you so far. Once you've enriched the data in bulk as far as possible, it's time for your Sales reps to get involved. List Views can be used to surface records to reps which need attention due to missing data points. From an Admin perspective, consider Reports and Dashboards to show the progress of your data enrichment efforts. Once the data is populated with the missing values, you'll be able to manually sync records to remove them from the Pardot Sync Error queue.
+It's likely that both 'backfilling' approaches outlined above can only take you so far. Once you've enriched the data in bulk as far as possible, it's time for your Sales reps to get involved. List Views can be used to surface records to reps which need attention due to missing data points. Following the screenshot above, add your filters to show records with blank values for your key datapoints (point 1), and customise your List View columns to display the fields you expect Reps to populate. As a bonus, show the Reps how to use Inline Editing to update values without leaving the List View (point 2).
+
+From an Admin perspective, consider Reports and Dashboards to show the progress of your data enrichment efforts. Once the data is populated with the missing values, you'll be able to manually sync records to remove them from the Pardot Sync Error queue.

@@ -32,7 +32,7 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: Breaking stuff in Pardot & writing about it.
+        subtitle: Breaking marketing stuff in Salesforce & writing about it.
         avatar:
             local: true
             src: img/matt-lincoln.jpg
