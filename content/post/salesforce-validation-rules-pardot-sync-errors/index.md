@@ -2,7 +2,7 @@
 author: Matt Lincoln
 title: New Salesforce Validation Rules + Old data = Pardot Sync Errors
 date: 2021-01-02
-description: When we think about sync errors, it's really easy to fall into the trap of assuming that Pardot is sending across invalid data into Salesforce...
+description: Don't just think into the future with Validation Rules, it's likely that your biggest problems are in the past...
 image: pardot-validation-rule-stop.jpg
 categories:
 - pardot
