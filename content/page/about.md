@@ -1,4 +1,11 @@
-I got my start in the industry 10 years ago as a lead generation focused B2B marketer, whilst working towards becoming a Chartered Marketer. During this time I became a specialist in CRM, email marketing, forms and landing pages. It wasn't until 2014 that I got my first taste of a single, fully integrated Marketing Automation system as a Pardot end user.
+---
+title: "About Me"
+date: 2020-12-27
+slug: "about"
+description: "Pardot Consultant 🚀 / 3x Salesforce Certified 📚 / Salesforce Marketing Champion 2020 🏆 / CIM Chartered Marketer 🎓"
+---
+
+I got my start in the industry over 10 years ago as a lead generation focused B2B marketer, whilst working towards becoming a Chartered Marketer. During this time I became a specialist in CRM, email marketing, forms and landing pages. It wasn't until 2014 that I got my first taste of a single, fully integrated Marketing Automation system as a Pardot end user.
 
 I enjoyed working with Pardot so much that I decided to join a Pardot Consulting Partner to gain experience in helping as many businesses in as many industries as possible.
 
