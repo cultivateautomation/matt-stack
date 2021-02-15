@@ -23,10 +23,12 @@ Either way, what you've likely found so far is that the Pardot documentation is 
 
 ## Pardot's out of the box Visitor Tracking Opt-in Banner
 
-Pardot wasn't massively quick to help clients get ready for GDPR compliance. Fairly late in the run-up to the GDPR deadline, a Pardot banner 
+Pardot wasn't very quick to help clients get ready for GDPR compliance. Fairly late in the run-up to the GDPR deadline, a Pardot banner option appeared in the platform
+
+
 
 Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
-<!--more-->
+
 
 Test In this example we will be using [KaTeX](https://katex.org/)
 
