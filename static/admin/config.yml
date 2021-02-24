@@ -10,7 +10,7 @@ collections:
   - name: posts
     label: Posts
     label_singular: 'Post'
-    folder: content/posts
+    folder: content/post
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
@@ -21,3 +21,9 @@ collections:
       - label: 'Cover Image'
         name: 'image'
         widget: 'image'
+      - label: 'Author'
+        name: 'author'
+        widget: 'string'date
+      - label: 'Date'
+        name: 'date'
+        widget: 'Date'
