@@ -23,7 +23,7 @@ collections:
         widget: 'image'
       - label: 'Author'
         name: 'author'
-        widget: 'string'date
+        widget: 'string'
       - label: 'Date'
         name: 'date'
         widget: 'Date'
