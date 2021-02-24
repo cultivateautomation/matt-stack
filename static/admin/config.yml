@@ -42,9 +42,24 @@ collections:
         widget: boolean
         hint: ""
         default: true
+      - label: Categories
+        name: categories
+        required: true
+        widget: relation
+        hint: ""
+        default: ""
+        collection: categories
+        displayFields: categories
+        searchFields: categories
+        valueField: categories
+        multiple: true
+        optionsLength: 20
+    slug: ""
+    create: true
+    identifier_field: ""
   - name: categories
     label: Categories
-    folder: /categories
+    folder: content/categories
     create: true
     slug: "{{slug}}"
     fields:
@@ -119,4 +134,16 @@ collections:
         widget: text
         hint: ""
         default: ""
+      - label: Categories
+        name: categories
+        required: true
+        widget: relation
+        hint: ""
+        default: ""
+        collection: categories
+        displayFields: categories
+        searchFields: categories
+        valueField: categories
+        multiple: true
+        optionsLength: 20
     identifier_field: ""
