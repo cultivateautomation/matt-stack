@@ -26,8 +26,8 @@ collections:
         name: date
         widget: datetime
         default: ""
-        dateFormat: '"YYYY.MM.DD" # e.g. 2021.12.24'
-        timeFormat: '"HH:mm" # e.g. 21:07'
+        date_format: DD.MM.YYYY
+        time_format: HH:mm
         format: LLL
         picker_utc: false
       - label: Description
@@ -92,9 +92,9 @@ collections:
             hint: ""
             default: ""
     identifier_field: categories
-  - name: drove
-    label: Drove
-    folder: src/pages/drove
+  - name: pages
+    label: Pages
+    folder: content/page
     create: true
     slug: "{{slug}}"
     fields:
@@ -119,3 +119,4 @@ collections:
         widget: text
         hint: ""
         default: ""
+    identifier_field: ""
