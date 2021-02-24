@@ -1,29 +1,121 @@
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
-
+  branch: main
 publish_mode: editorial_workflow
-
 media_folder: static/media
 public_folder: /media
 collections:
   - name: posts
     label: Posts
-    label_singular: 'Post'
+    label_singular: Post
     folder: content/post
-    path: '{{slug}}/index'
-    media_folder: ''
-    public_folder: ''
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
     fields:
       - label: Title
         name: title
         widget: string
-      - label: 'Cover Image'
-        name: 'image'
-        widget: 'image'
-      - label: 'Author'
-        name: 'author'
-        widget: 'string'
-      - label: 'Date'
-        name: 'date'
-        widget: 'Date'
+      - label: Cover Image
+        name: image
+        widget: image
+      - label: Author
+        name: author
+        widget: string
+      - label: Date
+        name: date
+        widget: datetime
+        default: ""
+        dateFormat: '"YYYY.MM.DD" # e.g. 2021.12.24'
+        timeFormat: '"HH:mm" # e.g. 21:07'
+        format: LLL
+        picker_utc: false
+      - label: Description
+        name: description
+        required: true
+        widget: text
+        hint: ""
+        default: ""
+      - label: Draft
+        name: draft
+        required: true
+        widget: boolean
+        hint: ""
+        default: true
+  - name: categories
+    label: Categories
+    folder: /categories
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: Title
+        name: title
+        required: true
+        widget: string
+        hint: ""
+        default: ""
+      - label: Description
+        name: description
+        required: true
+        widget: text
+        hint: ""
+        default: ""
+      - label: Draft
+        name: draft
+        required: true
+        widget: string
+        hint: ""
+        default: ""
+      - label: Image
+        name: image
+        required: true
+        widget: image
+        hint: ""
+        default: ""
+        allow_multiple: false
+      - label: Style
+        name: style
+        required: true
+        widget: object
+        hint: ""
+        fields:
+          - label: Background
+            name: background
+            required: true
+            widget: string
+            hint: ""
+            default: ""
+          - label: Color
+            name: color
+            required: true
+            widget: string
+            hint: ""
+            default: ""
+    identifier_field: categories
+  - name: drove
+    label: Drove
+    folder: src/pages/drove
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: Title
+        name: title
+        required: true
+        widget: string
+        hint: ""
+        default: ""
+      - label: Date
+        name: date
+        required: true
+        widget: datetime
+        hint: ""
+        default: ""
+        format: ""
+        dateFormat: '"YYYY.MM.DD" # e.g. 2021.12.24'
+        timeFormat: '"HH:mm" # e.g. 21:07'
+      - label: Description
+        name: description
+        required: true
+        widget: text
+        hint: ""
+        default: ""
