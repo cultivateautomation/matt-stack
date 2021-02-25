@@ -59,9 +59,9 @@ collections:
     identifier_field: ""
   - name: categories
     label: Categories
-    folder: content/categories
+    folder: content/categories/{{title}}/
     create: true
-    slug: "{{slug}}"
+    slug: "index.md"
     fields:
       - label: Title
         name: title
