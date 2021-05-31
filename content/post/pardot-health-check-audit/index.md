@@ -24,7 +24,7 @@ Want to participate yourself?
 
 Watch the session recording:
 
-<iframe src="https://www.youtube.com/embed/OAzaP7gJmgk" allowfullscreen="allowfullscreen"></iframe>
+{{< youtube "OAzaP7gJmgk" >}}
 
 The session took the following structure:
 
