@@ -28,3 +28,15 @@ Pardot wasn't very quick to help clients get ready for GDPR compliance. Fairly l
 This banner can be set to display for all visitors to your website, or only for visitors from certain countries or regions.
 
 The problem? This is not a viable solution if you're using a third party cookie management tool. You'd have two cookie banners - one from Pardot, and one from your cookie management platform!
+
+## Pardot's "sneaky" cookies - the iframed web form
+
+So the simple solution here is to just enable Pardot's website tracking code when a visitor opts in via your cookie preference tool, right?
+
+Nope, it's not quite that simple. Check out the form below.
+
+<iframe src="https://go.pardot.com/l/757603/2019-05-17/61j" width="100%" height="500" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>
+
+There isn't any standalone Pardot tracking code installed on this page, yet Pardot is now dropping cookies, by virtue of the iframe above.
+
+If you're using Pardot iFrames, this means that you could be noncompliant from a cookie perspective without realising.
