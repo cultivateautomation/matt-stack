@@ -4,11 +4,11 @@ title: Integrating Pardot with Cookie Consent Platforms
 date: 2021-08-05
 description: Pardot and third party cookie solutions overview
 image: pardot-cookies.jpg
-draft: true
+draft:
 categories:
 - pardot
 - cookies
-- test
+- gdpr
 ---
 
 If you're reading this article, there's a chance you've been asked to integrate Pardot with a third-party cookie solution such as OneTrust, Cookiebot, Cookiehub, iubenda or Cookiefirst. Perhaps this is a proactive push to become compliant with GDPR or other privacy regulations, or you've been given a notice from a regulator that your cookie management isn't up to scratch. 
