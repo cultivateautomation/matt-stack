@@ -35,7 +35,7 @@ So the simple solution here is to just enable Pardot's website tracking code whe
 
 Nope, it's not quite that simple. Check out the form below.
 
-<iframe src="https://go.pardot.com/l/757603/2019-05-17/61j" width="100%" height="500" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>
+<iframe src="https://go.pardot.com/l/757603/2019-05-17/61j" width="100%" height="250" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>
 
 There isn't any standalone Pardot tracking code installed on this page, yet Pardot is now dropping cookies, by virtue of the iframe above.
 
