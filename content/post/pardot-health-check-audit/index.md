@@ -34,11 +34,11 @@ The session took the following structure:
 
 ## Average % of Mailable Prospects = 78.4%
 
-#### **How did we measure this?**
+### **How did we measure this?**
 
 This metric was calculated by dividing the total number of Prospects who can receive emails, e.g. not marked as Opted Out, Bounced or Do Not Email, by the total number of Prospects, then calculating the average across each org.
 
-#### **What can we learn from this?**
+### **What can we learn from this?**
 
 The metric tells us that on average, around 1 in 4 Pardot Prospects are not eligible to receive emails.
 
@@ -46,7 +46,7 @@ It's a fairly high number, and tells us that perhaps Pardot Admins aren't spring
 
 The interesting thing is that the actual number of mailable Prospects will be even lower than this in the real world. The limitation in this measurement is that for clients using [Email Preference Pages](https://help.salesforce.com/articleView?id=sf.pardot_emails_preference_center_parent.htm&type=5), prospects can opt out of specific communications without being counted as a globally opted out Prospect in your account. Only accounts exclusively using the "[global unsubscribe](https://help.salesforce.com/articleView?id=sf.pardot_emails_unsubscribe_page.htm&type=5)" option get an accurate number of "opted out" Prospects.
 
-#### **What can I do if I score poorly (low percentage)?**
+### **What can I do if I score poorly (low percentage)?**
 
 It’s not necessarily a negative - unmailable Prospects don’t count towards your database limit. Consider whether the prospects are Opted Out or set as Do Not Email, or both. They're all different scenarios and require different approaches:
 
@@ -62,7 +62,7 @@ It’s not necessarily a negative - unmailable Prospects don’t count towards y
 *   Is opted out in Salesforce.
 *   Is manually opted out in Pardot.
 
-#### **Next Steps**
+### **Next Steps**
 
 *   Reading the [Pardot Database Cleaning Guide](https://www.pardot.com/training/database-cleaning-guide/)
 *   Consider archiving Prospects if they don't want to receive comms from you, or you've already imported as "Import prospects and global opt-out"
@@ -71,11 +71,11 @@ It’s not necessarily a negative - unmailable Prospects don’t count towards y
 
 ## Mailable Prospects who have been emailed? - 76.1%
 
-#### **How did we measure this?**
+### **How did we measure this?**
 
 This metric was calculated by taking the number of mailable prospects and dividing it by the number of prospects who have ever been sent an email to in your Pardot org.
 
-#### **What can we learn from this?**
+### **What can we learn from this?**
 
 The aim of this metric is to understand wasted database capacity.
 
@@ -87,7 +87,7 @@ The latest US pricing PDF shows that at the minimum pricing level, 10,000 additi
 
 Salesforce tells us that the Plus tier is the most popular, so if we extrapolate out $1,800 x 2.9 = this means an average of $5,220 per year in unnecessary spend for each account participating in the benchmark.
 
-#### **What can I do if I score poorly (low percentage)?**
+### **What can I do if I score poorly (low percentage)?**
 
 The first thing to check is whether you score low because you use an Email Preference Page. There is a limitation that clients using an Email Preference Page may have Prospects who are mailable from a technical perspective, but unmailable from a permissions perspective.
 
@@ -101,17 +101,17 @@ Are your prospects missing key segmentation fields? Alongside checking individua
 
 ## Prospects never active, or not active in the last 6 months? - 70.3%
 
-#### **How did we measure this?**
+### **How did we measure this?**
 
 A prospect is known as active when they interact with our Pardot assets, such as clicking a link, viewing a page or submitting a form. However, email opens are not counted as many spam filtering applications open emails to check the content. It's easy to measure this using the Prospect time filter on Dynamic Lists. In the audit,
 
-#### **What can we learn from this?**
+### **What can we learn from this?**
 
 This metric is a great indicator of understanding how engaged your database has been recently with your Pardot marketing activities. We can see that 70.3% of prospects have never been active on average, meaning that the vast majority of a Pardot org's Prospects aren't interested in the emails you're sending them.
 
 To the marketer clicking the send button, every email they're churning out feels important, but sadly that's rarely the case for the recipient. This metric highlights the importance of considering every member of your database as an individual, and targeting them as specifically as possible based on the segmentation information you hold about them in your database.
 
-#### **What can I do if I score poorly (high percentage)?**
+### **What can I do if I score poorly (high percentage)?**
 
 The measurement of a Prospect as being 'active' revolves around the concept of '[conversion](https://help.salesforce.com/articleView?id=pardot_converting_visitors_to_prospects.htm&type=0)' in your Pardot org. Conversion is the link between a cookied 'visitor' on your website and Prospect in your database. To measure a Prospect being active, they must have converted. It's worth thinking about how you elicit prospects to complete your webforms and click on CTA buttons in your email templates - issues with these normally goes hand in hand with low conversion rates.
 
@@ -125,17 +125,17 @@ If all else fails, should these Prospects or a subset of them be “spring clean
 
 ## First Name Missing? - 5.0%
 
-#### **How did we measure this?**
+### **How did we measure this?**
 
 This Dynamic List used the "Prospect field "is empty" criteria. We divided the number of Prospects with a missing first name, by the total number of Prospects in each account.
 
-#### **What can we learn from this?**
+### **What can we learn from this?**
 
 The point here wasn't really about understanding the level of which the first name field is populated. That's one small data point amongst many fields used for personalising emails.
 
 Even so, the number is surprisingly high. That's 1 in 20 records on average which is missing a first name. This is typically seen alongside what I call a "Mailchimp mentality" of just uploading email addresses for a particular unpersonalised "email blast". One of the biggest mentality shifts for a new client is that you should consider Pardot not as a tool to send individual emails, but instead think of it as a platform to build a long term Prospect Database.
 
-#### **What can I do if I score poorly (high percentage)?**
+### **What can I do if I score poorly (high percentage)?**
 
 The most successful Pardot users have a defined set of data points required before a Lead can be passed across from Marketing to Sales. If you haven't already, define your MQL (Marketing Qualified Lead) criteria. This ensures that Sales receive Leads which are well qualified, consistent in quality and are more likely to convert. Could a Sales rep work a Lead which doesn't have a name? Every sales process is different, but it's likely for most organisations that the answer is no. Audit all the data collection points where Prospects enter your Pardot database. Whether it's through Pardot forms, imports, Connectors, or the API, ensure that you're not missing the chance to collect data in fields which are required for your Sales process - or put in a plan to collect them using Pardot functionality such as Progressive Profiling.
 
@@ -179,7 +179,7 @@ It wasn't a perfect experiment. There were some nonsensical submissions which I'
 
 In summary, it's best practice to regularly run a Pardot health-check auditon your account to make sure you're getting the most from the system, and that yourmarketingchannels are giving you the best possible return on your investment.
 
-## **Methodology Note**
+## Methodology Note
 
 There were two options for methodolgy here when calculating the averages used below:
 

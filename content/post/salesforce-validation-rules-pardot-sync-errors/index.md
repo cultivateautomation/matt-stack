@@ -28,7 +28,7 @@ There are quite a few approaches we can take here, each unfortunately having som
 *   The nature of the specific data point which is triggering the error
 *   The level of time/resource available to you to resolve
 
-### Allow Pardot to bypass the Salesforce Validation Rule
+## Allow Pardot to bypass the Salesforce Validation Rule
 
 The easiest way to resolve your Validation Rule issue is to just ensure that it doesn't fire when the Pardot Connector User or Integration user updates a Salesforce record.
 
@@ -39,7 +39,7 @@ Questions to ask:
 
 If your answers above are all No, then you might consider this approach. This would be a code modification to the validation in Salesforce to ensure that it isn't applied to the Pardot integration user.
 
-### Bypass the Validation Rule for legacy records only
+## Bypass the Validation Rule for legacy records only
 
 This is a more nuanced approach than the previous option. By only allowing Pardot to bypass the Validation Rule for records created *before* the rule was launched, we are deciding that the validation *is* relevant from a Pardot perspective, however we have no way of fixing legacy records created before the rule was put in place.
 
@@ -47,7 +47,7 @@ Imagine if we have a million Lead or Contact records in Salesforce missing a hig
 
 So yes, we would need to allow Pardot to bypass this validation, although what if it's information which Pardot needs to populate going forward? In this case, we could ensure that the field is mandatory only for Leads with a `Created Date` after the validation was introduced.
 
-### Backfilling via Bulk update (e.g. inferrable picklist values)
+## Backfilling via Bulk update (e.g. inferrable picklist values)
 
 Imagine that your Salesforce Administrator has introduced a Validation Rule to require the `County` field (You might know this as `State` or `Region`) to be populated. You might be able to use your power of inference to make reasonable assumptions about your data. If 25% of your Lead records are missing the `County` field, you could decide to look at what other data points you hold. Perhaps you have a `Town` populated, or a `Postcode` populated for the majority of those problematic records. In this case, we can work out a Lead's County from a `Postcode` or a `Town` - [this information is freely available](https://geoportal.statistics.gov.uk/datasets/ons-postcode-directory-november-2019) from the UK Office for National Statistics.
 
@@ -55,13 +55,13 @@ Similarly, `Telephone` country codes can be deduced from a `Country` field. Did 
 
 ![](country-enrichment.png)
 
-### Record Backfilling via Scraping
+## Record Backfilling via Scraping
 
 I know what you're thinking - it's a high risk, high reward approach, but for extremely large datasets, information such as company `Industry`, `Annual Revenue`, `Address` etc are readily available online and can be enriched into Salesforce to ensure that your newly mandatory fields are populated on old records.
 
 If you do want to use data scraping tools to populate missing field values, it will be important to determine whether or not your company has a right to use scraped data. We have to be extra careful when we are pulling in data about individuals rather than companies. GDPR covers the protection of personal data of EU citizens; If you pull in data from the EU you must be sure that the data you are pulling is GDPR compliant.
 
-### Surface non-compliant data to reps to manually fix
+## Surface non-compliant data to reps to manually fix
 
 ![](salesforce-list-view-data-encrichment.png)
 
