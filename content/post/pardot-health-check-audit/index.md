@@ -7,6 +7,7 @@ image: pardot-audit.jpg
 categories:
 - pardot
 - audit
+- data
 ---
 
 
