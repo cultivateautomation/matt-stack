@@ -1,7 +1,7 @@
 ---
 author: Matt Lincoln
 title: Contacts to Multiple Accounts and Pardot
-date: 2021-10-29
+date: 2021-11-01
 description: How do we represent someone who "wears multiple hats" across our CRM and Marketing Automation platforms?
 image: wearing-multiple-hats.jpg
 categories:
