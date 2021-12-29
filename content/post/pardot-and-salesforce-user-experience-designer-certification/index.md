@@ -1,7 +1,7 @@
 ---
 author: Matt Lincoln
 title: Five reasons Pardot Consultants should take the Salesforce User Experience Designer Certification
-date: 2021-01-02
+date: 2022-01-02
 description: Why is Salesforce's newest certification a great fit for Pardot specialists?
 image: pardot-and-salesforce-user-experience-designer.png
 categories:
