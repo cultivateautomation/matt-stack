@@ -99,25 +99,33 @@ menu:
           name: Home
           url: /
           weight: -100
-          pre: home
+          params:
+            icon: home
+            newTab: false
 
         - identifier: about
           name: About
           url: about
           weight: -90
-          pre: user
+          params:
+            icon: user
+            newTab: false
 
         - identifier: archives
           name: Archives
           url: archives
           weight: -70
-          pre: archives
+          params:
+            icon: archives
+            newTab: false
 
         - identifier: search
           name: Search
           url: search
           weight: -60
-          pre: search
+          params:
+            icon: search
+            newTab: false
 
 related:
     includeNewer: true
