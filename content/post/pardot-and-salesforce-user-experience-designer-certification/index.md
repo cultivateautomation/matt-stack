@@ -12,8 +12,9 @@ categories:
 
 In 2021, Salesforce released a new [User Experience Designer](https://trailhead.salesforce.com/en/credentials/userexperiencedesigner) Certification. It's such a departure from the rest of the certifications on offer, that Salesforce actually needed to introduce an entirely new certified professional persona, known as the **Salesforce Designer**. Rather than being mainly focused on in-application technical functionality, this certification looks at a product lifecycle end-to-end, with the development of "human-centered experiences" at the heart of the certification and [associated Trailmix](https://trailhead.salesforce.com/en/users/strailhead/trailmixes/prepare-for-your-ux-designer-credential).
 
-Where the certification does delve into Salesforce application functionality, some of the main themes it touches upon are around Sales Cloud, Service Cloud, Experience Cloud, Salesforce Mobile App, Lightning Experience (LEX) and Flows. But that doesn't mean it's not a great certification for Pardot Consultants - and I've outlined below five reasons a Pardot consultant might want to tackle this cert.
 <!--more-->
+
+Where the certification does delve into Salesforce application functionality, some of the main themes it touches upon are around Sales Cloud, Service Cloud, Experience Cloud, Salesforce Mobile App, Lightning Experience (LEX) and Flows. But that doesn't mean it's not a great certification for Pardot Consultants - and I've outlined below five reasons a Pardot consultant might want to tackle this cert.
 
 ## 1. A wider understanding of Sales Cloud & Lightning Functionality
 
