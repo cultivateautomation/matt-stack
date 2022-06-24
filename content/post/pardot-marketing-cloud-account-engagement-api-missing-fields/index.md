@@ -1,6 +1,6 @@
 ---
 author: Matt Lincoln
-title: Why isn’t a field being returned in the Marketing Cloud Account Engagement / Pardot API request?
+title: Why isn’t a field being returned in the Marketing Cloud Account Engagement (Pardot) API request?
 date: 2022-06-24
 description: Getting to the bottom of field handling in the Pardot API Read request
 image: marketing-cloud-account-engagement-api.jpg
