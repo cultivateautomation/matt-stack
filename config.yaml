@@ -54,8 +54,8 @@ params:
             label: utterance
             theme: preferred-color-scheme
         remark42:
-            host: https://www.mattlincoln.net/
-            site: mattlincoln.net
+            host: https://www.mattlincoln.net
+            site: mattlincoln
 
     widgets:
         homepage:
