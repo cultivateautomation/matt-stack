@@ -7,7 +7,7 @@ image: pardot-validation-rule-stop.jpg
 categories:
 - pardot
 - salesforce
-- connector 
+- connectors 
 ---
 
 So, your Salesforce Admin just introduced a new Validation Rule, and subsequently, you noticed that your Sync Error queue in Pardot has been backlogged with an alarmingly high number of Prospects. 

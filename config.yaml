@@ -47,7 +47,7 @@ params:
 
     comments:
         enabled: true
-        provider: utterances
+        provider: remark42
         utterances:
             repo: cultivateautomation/matt-stack
             issueTerm: pathname
