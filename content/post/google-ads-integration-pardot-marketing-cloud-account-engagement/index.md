@@ -1,6 +1,6 @@
 ---
 author: Matt Lincoln
-title: Marketing Cloud Account Engagement (Pardot) and Google Ads / Adwords Integration
+title: Marketing Cloud Account Engagement (Pardot) and Google Ads Integration
 date: 2022-08-14
 description: A comprehensive overview around connecting your Google Ads with your Salesforce Opportunities
 image: pardot-google-ads.jpg
@@ -13,9 +13,9 @@ categories:
 
 ## Introduction
 
-What do Pardot and Google Adwords have in common? They both had a somewhat questionable name change from a recognisable brand to a very generic and difficult-to-research product name. So whether you found this article using the good old names, or the newer names, what we'll try and unpack here, is the typical steps for getting Marketing Cloud Account Engagement and Google Ads to "talk" to each other.
+What do Pardot and Google Ads have in common? They both had a somewhat questionable name change from a recognisable brand to a very generic and difficult-to-research product name. So whether you found this article using the good old names, or the newer names, what we'll try and unpack here, is the typical steps for getting Marketing Cloud Account Engagement and Google Ads to "talk" to each other.
 
-As a marketer, you're measured on delivering a great Return on Marketing Investment (ROMI). So you're going to want to make sure that the Google Ads you run, generate a net positive outcome for your organization. That's where the Pardot Google Ads connector comes in.
+As a marketer, you're measured on delivering a great Return on Marketing Investment (ROMI). So you're going to want to make sure that the Google Ads you run, generate a net positive outcome for your organization. That's where the Pardot Google Ads (formerly known as Adwords) connector comes in.
 
 ## What does the connector do?
 
