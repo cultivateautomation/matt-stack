@@ -13,9 +13,9 @@ categories:
 
 ## Introduction
 
-If you manage one or multiple Pardot business units, you’re probably well aware of the importance of keeping your accounts in good shape. Since account maintenance isn’t always the most glamorous part of your role, you may end up putting it off for a rainy day. However, this can often have consequences, such as a poorly-optimised campaign, or a lack of insight into key metrics.
+If you manage one or multiple Pardot business units, you’re probably well aware of the importance of keeping your accounts in good shape. Since account maintenance isn’t always the most glamorous part of your role, you may end up putting it off for a rainy day. However, this can often have consequences, such as a low-performing campaign, or a lack of insight into key metrics.
 
-One of the most important steps to maintaining a successful marketing technology platform is making sure that your process is set up optimally for the way your organisation works. It takes time to set up your Pardot account, which is why it’s important to know how to do it, and what 'gotchas' to look out for.
+One of the most important steps to maintaining a successful marketing technology platform is making sure that your process is set up optimally for the way your business works. It takes time to set up your Pardot account, which is why it’s important to know how to do it, and what 'gotchas' to look out for.
 
 At Pardreamin' 2020, I wanted to give some best practice tips on doing a Pardot health assessment. However it was a great opportunity to make a hands-on session, and allow participants to not only see their own org's health in isolation, but also to compare their org against their peers in the first crowdsourced Pardot health check. I'm often asked "what's the average of this or that metric?" by clients, but this was a chance to get some concrete data for comparison.
 
@@ -132,13 +132,13 @@ This Dynamic List used the "Prospect field "is empty" criteria. We divided the n
 
 ### **What can we learn from this?**
 
-The point here wasn't really about understanding the level of which the first name field is populated. That's one small data point amongst many fields used for personalising emails.
+The point here wasn't really about understanding the level of which the first name field is populated. That's one small data point amongst many fields used for tailoring emails.
 
-Even so, the number is surprisingly high. That's 1 in 20 records on average which is missing a first name. This is typically seen alongside what I call a "Mailchimp mentality" of just uploading email addresses for a particular unpersonalised "email blast". One of the biggest mentality shifts for a new client is that you should consider Pardot not as a tool to send individual emails, but instead think of it as a platform to build a long term Prospect Database.
+Even so, the number is surprisingly high. That's 1 in 20 records on average which is missing a first name. This is typically seen alongside what I call a "Mailchimp mentality" of just uploading email addresses for a particular generic "email blast". One of the biggest mentality shifts for a new client is that you should consider Pardot not as a tool to send individual emails, but instead think of it as a platform to build a long term Prospect Database.
 
 ### **What can I do if I score poorly (high percentage)?**
 
-The most successful Pardot users have a defined set of data points required before a Lead can be passed across from Marketing to Sales. If you haven't already, define your MQL (Marketing Qualified Lead) criteria. This ensures that Sales receive Leads which are well qualified, consistent in quality and are more likely to convert. Could a Sales rep work a Lead which doesn't have a name? Every sales process is different, but it's likely for most organisations that the answer is no. Audit all the data collection points where Prospects enter your Pardot database. Whether it's through Pardot forms, imports, Connectors, or the API, ensure that you're not missing the chance to collect data in fields which are required for your Sales process - or put in a plan to collect them using Pardot functionality such as Progressive Profiling.
+The most successful Pardot users have a defined set of data points required before a Lead can be passed across from Marketing to Sales. If you haven't already, define your MQL (Marketing Qualified Lead) criteria. This ensures that Sales receive Leads which are well qualified, consistent in quality and are more likely to convert. Could a Sales rep work a Lead which doesn't have a name? Every sales process is different, but it's likely for most businesses that the answer is no. Audit all the data collection points where Prospects enter your Pardot database. Whether it's through Pardot forms, imports, Connectors, or the API, ensure that you're not missing the chance to collect data in fields which are required for your Sales process - or put in a plan to collect them using Pardot functionality such as Progressive Profiling.
 
 Ask yourself, for Prospects missing key data points, are those records really good quality data? Typically it can be the sign of a bad quality dataset being imported into your account. Do you really have permission to hold this data in your org? Consider sending these records to the recycle bin until they submit a form and provide complete information. If you don't even hold a first name for a Prospect, how can you be sure you know enough information about them to know which types of emails you should be sending them?
 
@@ -193,3 +193,8 @@ Option B was selected as a better fit as it was less impacted by org-level outli
 ## Further Reading
 
 If you need a helping hand to perform this type of analysis, Salesforce offers a guided [Pardot Health Assessment Accelerator](https://help.salesforce.com/articleView?id=000312990&type=1&mode=1) for clients on a Premier Success Plan.
+
+---
+
+### Is your Pardot account overdue a review?
+If your Pardot account is overdue a proper review, I offer structured diagnostic engagements for B2B marketing and ops teams. Use the chatbot in the bottom right corner of this page to start a conversation.

@@ -10,9 +10,9 @@ categories:
 ---
 
 
-Particularly for small businesses with limited budgets, Pardot / Marketing Cloud Account Engagement can feel daunting to maintain, requiring specialised knowledge which can be costly to get access to from dedicated consultancies.
+Particularly for small businesses with limited budgets, Pardot / Marketing Cloud Account Engagement can feel daunting to maintain, requiring expert knowledge which can be costly to get access to from dedicated consultancies.
 
-Here are a few tips for any organisations thinking about how to make the most out of Marketing Automation, without breaking the bank.
+Here are a few tips for any businesses thinking about how to make the most out of Marketing Automation, without breaking the bank.
 
 Benefits of Hiring a Freelancer
 -------------------------------
@@ -31,7 +31,7 @@ How to Choose the Right Pardot Freelancer
 -----------------------------------------
 
 1.  ****Assessing Skills and Experience****:
-    When hiring freelancers with Pardot expertise, consider three key factors. First, try to assess their technical proficiency on the platform. There's no easy way to do this as a client, but when you're having a call with them, ask them about their background on the platform, number of years of experience and most complex projects - and importantly, assess how understandable their answer is. Even if they're a genius on the platform, if they can't explain things in a way which your team can understand, it's a red flag that you might struggle to collaborate down the line. Second, prioritise freelancers with relevant Salesforce certifications, such as the Pardot Specialist or Pardot Consultant certs, and any Salesforce Admin or Consultant exams. The importance of certifications is debatable and there are some great freelancers without certifications, but on average, certs are a positive indicator. Lastly, industry experience can be important - it's very helpful to find freelancers who have worked in your industry, as their familiarity with industry-specific processes, requirements and challenges can be useful.
+    When hiring freelancers with Pardot expertise, consider three key factors. First, try to assess their technical proficiency on the platform. There's no easy way to do this as a client, but when you're having a call with them, ask them about their background on the platform, number of years of experience and most complex projects - and importantly, assess how understandable their answer is. Even if they're a genius on the platform, if they can't explain things in a way which your team can understand, it's a red flag that you might struggle to collaborate down the line. Second, prefer freelancers with relevant Salesforce certifications, such as the Pardot Specialist or Pardot Consultant certs, and any Salesforce Admin or Consultant exams. The importance of certifications is debatable and there are some great freelancers without certifications, but on average, certs are a positive indicator. Lastly, industry experience can be important - it's very helpful to find freelancers who have worked in your industry, as their familiarity with industry-specific processes, requirements and challenges can be useful.
 2.  ****Checking References and Reviews****:
     Often agencies will have a lot of customer references because they simply have a greater number of consultants, giving them more opportunities to get reviews. If you're planning on working with a contractor for a while, it's always worth checking their website for reviews or ratings from their other clients. If there's nothing available online, ask them directly if they have any customer references, or can put you in touch with one of their clients.
 3.  ****Setting Clear Expectations and Deliverables****:
@@ -39,4 +39,9 @@ How to Choose the Right Pardot Freelancer
 4.  ****Negotiating Rates and Contracts****:
     First, you'll need to decide between hourly rates and a fixed project fee. Hourly rates are often suitable for ongoing work, while fixed rates work well for clearly defined projects such as implementations. Next, agree a working agreement or contract that covers the most important points commercially such as payment terms, project milestones, intellectual property rights. Some clients handle confidentiality separately with an NDA. Lastly, rate negotiation should take into account the freelancer's experience, the complexity of the task, and standard market rates.
 
-If you're looking for a Marketing Cloud Account Engagement freelancer, feel free to get in touch and see if I'd be a good fit. If I won't, I also have a large network of other contractors or freelancers and can point you in the right direction if I can't help you myself.
+
+
+---
+
+### Looking for a Pardot freelancer yourself?
+If you're comparing options and want to understand what working directly with an experienced independent Salesforce consultant looks like, use the chatbot in the bottom right corner of this page.
