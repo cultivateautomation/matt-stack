@@ -33,9 +33,7 @@ params:
     sidebar:
         emoji: 
         subtitle: Senior Salesforce B2B MarTech Advisory. Navigating Pardot, MCAE, Data Cloud, and Agentforce.
-        avatar:
-            local: true
-            src: img/matt-lincoln.jpg
+        avatar: img/matt-lincoln.jpg
 
     article:
         math: false
