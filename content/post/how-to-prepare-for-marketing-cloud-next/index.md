@@ -1,6 +1,6 @@
 ---
 title: "How to Prepare Your Marketing Operations Team for Salesforce's 'Marketing Cloud Next' Era"
-date: 2026-05-14
+date: 2026-05-21
 draft: false
 image: compass.jpg
 categories: ["Salesforce", "Pardot", "Marketing Strategy", "Data Cloud"]
