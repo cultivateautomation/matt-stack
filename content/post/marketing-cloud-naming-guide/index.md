@@ -2,6 +2,7 @@
 title: "Marketing Cloud Growth vs. Advanced vs. MCAE: A Practical Guide to Salesforce's New Marketing Stack"
 date: 2026-06-06
 draft: false
+image: signpost.jpg
 categories: ["Salesforce", "Pardot", "Marketing Strategy"]
 ---
 
