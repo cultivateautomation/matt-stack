@@ -5,7 +5,6 @@ pagination.pagerSize : 5
 title: Matt Lincoln - Salesforce, Pardot and Martech.
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn
