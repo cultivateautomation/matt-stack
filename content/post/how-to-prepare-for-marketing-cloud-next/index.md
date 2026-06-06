@@ -10,7 +10,7 @@ If you read the top ten blogs ranking on Google for "How to prepare for Marketin
 
 While that sounds great in a corporate slide deck, it isn’t going to help the marketing operations team sitting in your Slack channel panicking right now about having to learn a new product. 
 
-If your team is running a five-year-old Pardot instance held together by duct tape, Trailhead isn't your priority. Here is the trench reality of what the shift to Data Cloud and Agentforce actually means for your team, and what you actually need to do to prepare them.
+If your team is running a five-year-old Pardot instance held together by duct tape, Trailhead isn't your priority. Here's the in-the-trenches reality of what the shift to Data Cloud and Agentforce actually means for your team, and what you actually need to do to prepare them.
 
 ---
 
